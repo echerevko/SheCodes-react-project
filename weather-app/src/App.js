@@ -10,7 +10,8 @@ function App() {
         <footer>
           This project was coded by
           <a href="/" target="_blank">
-            Evgeniya Dzynia
+            {" "}
+            Evgeniya Dzynia{" "}
           </a>
           and is{" "}
           <a href="/" target="_blank">
