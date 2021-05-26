@@ -9,12 +9,20 @@ function App() {
         <Weather defaultCity="Stockholm" />
         <footer>
           This project was coded by
-          <a href="/" target="_blank">
+          <a
+            href="https://www.linkedin.com/feed/?trk=404_page"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             {" "}
             Evgeniya Dzynia{" "}
           </a>
           and is{" "}
-          <a href="/" target="_blank">
+          <a
+            href="https://github.com/echerevko/SheCodes-react-project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-sourced on GitHub
           </a>
         </footer>{" "}
